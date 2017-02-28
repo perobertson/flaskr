@@ -1,0 +1,3 @@
+env/
+flaskr.egg-info/
+*.pyc
