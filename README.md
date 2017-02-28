@@ -20,3 +20,8 @@ flask initdb
 # run the app
 flask run
 ```
+
+Run the tests
+```
+python setup.py test
+```
