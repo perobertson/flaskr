@@ -1,5 +1,7 @@
 env/
 flaskr.egg-info/
-*.pyc
 .cache/
 .eggs/
+
+*.pyc
+*.db
